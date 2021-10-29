@@ -1,0 +1,43 @@
+Name: Cancan Hua
+USC ID: 4612363893
+News site crawled: latimes.com
+Number of threads: 7
+
+Fetch Statistics
+==============
+# fetches attempted: 19776
+# fetches succeeded: 19105
+# fetches failed or aborted: 671
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1224966
+# unique URLs extracted: 298603
+# unique URLs within latimes.com: 189712
+# unique URLs outside latimes.com: 108891
+
+Status Codes:
+=============
+200 OK: 19105
+301 Moved Permanently: 542
+403 Forbidden: 4
+404 Not Found: 48
+
+File Sizes:
+===========
+< 1KB: 26
+1KB ~ <10KB: 149
+10KB ~ <100KB: 711
+100KB ~ <1MB: 18123
+>= 1MB: 93
+
+Content Types:
+==============
+text/html: 18781
+image/gif: 3
+image/jpeg: 110
+image/png: 208
+
+
+
+
